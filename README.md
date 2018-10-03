@@ -3,5 +3,5 @@ This repository contains code for university course Advanced Operating Systems l
 This course took place in summer semester 2017.<br/>
 
 First assignment involved simple message pipeline.<br/>
-Second assignemnt was about Lamport protocol.<br/>
-Third and fourth assingment were related and were about security. Goal of these assingments was to create system with digital envelope, digital signature and digital seal using asymmetric and symmetric cryptograhy algorithms.<br/> 
+Second assignment was about Lamport protocol.<br/>
+Third and fourth assignment were related and were about security. Goal of these assingments was to create system with digital envelope, digital signature and digital seal using asymmetric and symmetric cryptograhy algorithms.<br/> 
